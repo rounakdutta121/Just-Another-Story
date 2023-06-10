@@ -103,6 +103,15 @@
     margin-left: 12px;
     font-family: 'PT Mono', monospace;
 }
+.post-heading{
+    background-color: rgb(205, 204, 204);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Titan One', cursive;
+    font-size: 1.5rem;
+    border-radius: 10px
+}
 @media only screen and (max-width: 600px) {
     .text {
       font-size: 1rem;
