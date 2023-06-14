@@ -59,7 +59,7 @@
 }
 .posts-listed{
     width: 77vw;
-    height: 100vh;
+    max-height: 315vh;
     overflow: scroll;
 
 }
@@ -118,6 +118,7 @@
     }
     .posts-listed{
         width: 850px;
+        max-height: 328vh;
     }
     .title{
         font-size: 1.5rem;
